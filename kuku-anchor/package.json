@@ -1,0 +1,9 @@
+{
+  "name": "ku-yu-ku",
+  "version": "0.1.0",
+  "description": "一套能指回去的记忆结构：目录骨架 + 六条校验 + 写记录",
+  "author": "汐 · 大肥鱼小课堂",
+  "homepage": "https://space.bilibili.com/21049276",
+  "license": "MIT",
+  "main": "init.py"
+}
